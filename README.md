@@ -12,7 +12,8 @@ this code is for checking if the esp32 is running or not .
 
 ## Second : blinking code :
 
-## ESP32 LED code to blink:
+1- Write this code on Arduino IDE.
+
 ```
 Void setup(){
 pinMode(LED_BUILLTIN,OUTPUT);
@@ -27,10 +28,10 @@ delay(1000);
 
 }
 ```
-1- After writing this code verify and save the code.
+2- After writing this code verify and save the code.
 
-2- Make sure that there is no error in the code.
+3- Make sure that there is no error in the code.
 
-3- Click upload to upload this code to the ESP32 device.
+4- Click upload to upload this code to the ESP32 device.
 
-4- You will see the built-in LED blinking.
+5- You will see the built-in LED blinking.
